@@ -3,7 +3,7 @@
 """
 Created on Wed Jan 31 19:09:41 2024
 
-@author: finlaysime s2212677
+@author: finlaysime 
 
 """
 import math as m
